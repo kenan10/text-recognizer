@@ -1,0 +1,6 @@
+{
+    "rotation": -89,
+    "crop_points": [71, 121, 307, 153],
+    "image_folder": "data/img/",
+    "finnaly_folder": "data/finnaly/"
+}

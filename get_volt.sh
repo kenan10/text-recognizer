@@ -1,0 +1,1 @@
+wget -O data/img/volt_$(date +"%Y_%m_%d_%H_%M_%S").jpeg http://192.168.88.172/capture?_cb=1629204635508
